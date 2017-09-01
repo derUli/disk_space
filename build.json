@@ -1,0 +1,10 @@
+{
+	"id": "disk_space",
+	"version": "1.0",
+	"description": "Show used disk space",
+	"categories": [
+		"info",
+		"admin"
+	],
+	"compatible_from": "2017.3.12"
+}

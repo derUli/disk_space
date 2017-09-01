@@ -1,0 +1,12 @@
+{
+	"source": "extend",
+	"version": "1.0",
+	"embed": false,
+	"controllers": {
+		"DiskSpace": "DiskSpace.php"
+	},
+	"main_class": "DiskSpace",
+	"custom_acl": [
+		"disk_space"
+	]
+}
